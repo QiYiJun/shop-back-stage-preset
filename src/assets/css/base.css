@@ -25,3 +25,16 @@ body,
 .el-pagination {
   margin-top: 15px;
 }
+
+.zk-table {
+  margin-top: 15px;
+  font-size: 12px;
+}
+
+.el-cascader {
+  width: 100%;
+}
+
+.el-cascader-menu {
+  height: 300px;
+}
