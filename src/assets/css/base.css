@@ -31,10 +31,6 @@ body,
   font-size: 12px;
 }
 
-.el-cascader {
-  width: 100%;
-}
-
 .el-cascader-menu {
   height: 300px;
 }
